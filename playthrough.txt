@@ -1,0 +1,8 @@
+north
+south
+west
+east
+jump out
+read label
+cut drawer
+unlock door
